@@ -1,0 +1,5 @@
+Username - Admin
+Password - Admin_123
+
+Username - Cashier
+Password - Cashier_123
